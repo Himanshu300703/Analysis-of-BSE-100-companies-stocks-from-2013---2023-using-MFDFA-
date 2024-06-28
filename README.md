@@ -1,0 +1,1 @@
+# Analysis-of-BSE-100-companies-stocks-from-2013---2023-using-MFDFA-
